@@ -2,7 +2,7 @@
 
 # Hola, soy Vicente 👋
 
-**Ingeniería Civil de Industrias UC** — Major en Ingeniería de Software · Minor en Ciencia de Datos
+**Ingeniería Civil de Industrias UC** — Major en Ingeniería de Computación y Sistemas de Información (track Computación) · Minor en Data Science & Analytics
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-vicente1824.github.io-003366?style=flat-square)](https://vicente1824.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_González-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-gonz%C3%A1lez-cisternas)
@@ -10,9 +10,9 @@
 
 </div>
 
-Estudiante de tercer año en la Pontificia Universidad Católica de Chile, combinando desarrollo de software,
+Estudiante de cuarto año en la Pontificia Universidad Católica de Chile, combinando desarrollo de software,
 ciencia de datos y docencia universitaria. Actualmente ayudante de cátedra en IIC1005 y coordinador de
-orientación académica en el Cuerpo de Tutores UC, liderando la formación de más de 130 tutores.
+orientación académica en el Cuerpo de Tutores de Ingeniería UC, liderando la formación de más de 130 tutores.
 
 - 🔭 Trabajando en visualización de datos, sistemas distribuidos y automatización de procesos.
 - 🎓 Matrícula de Honor 2023 — PUC Chile.
